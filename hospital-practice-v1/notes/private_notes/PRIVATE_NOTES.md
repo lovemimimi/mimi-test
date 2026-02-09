@@ -24,3 +24,7 @@ markdown preview -> Ctrl+Shift+V
 - 상황:
 - 에러 메시지:
 ```text
+
+origin은 보통 GitHub 원격 저장소 이름.
+
+로컬은 원격의 상태를 origin/master라는 이름으로 “추적(tracking)”함.
